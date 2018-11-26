@@ -1,1 +1,2 @@
 # GitInternals
+New line
