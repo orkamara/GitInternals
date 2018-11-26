@@ -1,4 +1,1 @@
-# GitInternals
-New line
-
-Original line
+1
